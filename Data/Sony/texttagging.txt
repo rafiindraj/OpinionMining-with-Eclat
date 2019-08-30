@@ -1,0 +1,4 @@
+sony
+samsung
+lg
+htc

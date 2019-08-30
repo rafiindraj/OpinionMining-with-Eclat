@@ -1,0 +1,9 @@
+['battery'] ==> ['phone'] support: 11 confidence: 91.6667 
+['battery'] ==> ['screen'] support: 10 confidence: 83.3333 
+['battery', 'phone'] ==> ['screen'] support: 10 confidence: 90.9091 
+['camera'] ==> ['phone'] support: 21 confidence: 91.3043 
+['case'] ==> ['phone'] support: 10 confidence: 90.9091 
+['day'] ==> ['phone'] support: 11 confidence: 91.6667 
+['day'] ==> ['screen'] support: 10 confidence: 83.3333 
+['day', 'phone'] ==> ['screen'] support: 10 confidence: 90.9091 
+['fingerprint'] ==> ['phone'] support: 10 confidence: 100.0 

@@ -1,0 +1,108 @@
+['android'] ==> ['phone'] support: 12 confidence: 100.0 
+['apps'] ==> ['phone'] support: 15 confidence: 100.0 
+['apps'] ==> ['sony'] support: 13 confidence: 86.6667 
+['apps', 'phone'] ==> ['sony'] support: 13 confidence: 86.6667 
+['battery', 'camera'] ==> ['fingerprint'] support: 10 confidence: 62.5 
+['battery', 'camera'] ==> ['size'] support: 10 confidence: 62.5 
+['battery', 'camera'] ==> ['sony'] support: 12 confidence: 75.0 
+['battery', 'camera'] ==> ['work'] support: 11 confidence: 68.75 
+['battery', 'camera', 'fingerprint'] ==> ['phone'] support: 10 confidence: 100.0 
+['battery', 'camera', 'phone'] ==> ['sony'] support: 11 confidence: 78.5714 
+['battery', 'camera', 'phone'] ==> ['work'] support: 11 confidence: 78.5714 
+['battery', 'day'] ==> ['sony'] support: 12 confidence: 85.7143 
+['battery', 'day', 'phone'] ==> ['sony'] support: 11 confidence: 84.6154 
+['battery', 'feel'] ==> ['phone'] support: 10 confidence: 100.0 
+['battery', 'fingerprint'] ==> ['phone'] support: 12 confidence: 100.0 
+['battery', 'fingerprint'] ==> ['sensor'] support: 10 confidence: 83.3333 
+['battery', 'fingerprint'] ==> ['sony'] support: 10 confidence: 83.3333 
+['battery', 'fingerprint'] ==> ['work'] support: 11 confidence: 91.6667 
+['battery', 'fingerprint', 'phone'] ==> ['sensor'] support: 10 confidence: 83.3333 
+['battery', 'fingerprint', 'phone'] ==> ['sony'] support: 10 confidence: 83.3333 
+['battery', 'fingerprint', 'phone'] ==> ['work'] support: 11 confidence: 91.6667 
+['battery', 'hand'] ==> ['phone'] support: 12 confidence: 100.0 
+['battery', 'life'] ==> ['sony'] support: 12 confidence: 66.6667 
+['battery', 'life', 'phone'] ==> ['sony'] support: 12 confidence: 70.5882 
+['battery', 'phone'] ==> ['sony'] support: 18 confidence: 60.0 
+['battery', 'phone', 'screen'] ==> ['sony'] support: 12 confidence: 92.3077 
+['battery', 'phone', 'sony'] ==> ['time'] support: 11 confidence: 61.1111 
+['battery', 'screen'] ==> ['sony'] support: 12 confidence: 92.3077 
+['bit'] ==> ['phone'] support: 12 confidence: 100.0 
+['brand'] ==> ['phone'] support: 10 confidence: 100.0 
+['button'] ==> ['camera'] support: 12 confidence: 75.0 
+['button'] ==> ['sony'] support: 11 confidence: 68.75 
+['button', 'phone'] ==> ['sony'] support: 10 confidence: 66.6667 
+['camera'] ==> ['sony'] support: 24 confidence: 61.5385 
+['camera', 'feature'] ==> ['phone'] support: 12 confidence: 100.0 
+['camera', 'fingerprint'] ==> ['sensor'] support: 12 confidence: 70.5882 
+['camera', 'fingerprint'] ==> ['sony'] support: 12 confidence: 70.5882 
+['camera', 'fingerprint'] ==> ['work'] support: 12 confidence: 70.5882 
+['camera', 'fingerprint', 'phone'] ==> ['sensor'] support: 11 confidence: 68.75 
+['camera', 'fingerprint', 'phone'] ==> ['sony'] support: 11 confidence: 68.75 
+['camera', 'fingerprint', 'phone'] ==> ['work'] support: 12 confidence: 75.0 
+['camera', 'fingerprint', 'phone', 'sony'] ==> ['work'] support: 10 confidence: 90.9091 
+['camera', 'fingerprint', 'sony'] ==> ['work'] support: 10 confidence: 83.3333 
+['camera', 'hand'] ==> ['sony'] support: 13 confidence: 86.6667 
+['camera', 'hand', 'phone'] ==> ['sony'] support: 12 confidence: 85.7143 
+['camera', 'phone'] ==> ['sony'] support: 21 confidence: 60.0 
+['camera', 'phone', 'screen'] ==> ['sony'] support: 12 confidence: 80.0 
+['camera', 'phone', 'size'] ==> ['sony'] support: 11 confidence: 68.75 
+['camera', 'phone', 'size'] ==> ['work'] support: 10 confidence: 62.5 
+['camera', 'phone', 'sony'] ==> ['work'] support: 13 confidence: 61.9048 
+['camera', 'phone', 'time'] ==> ['work'] support: 10 confidence: 76.9231 
+['camera', 'screen'] ==> ['sony'] support: 12 confidence: 80.0 
+['camera', 'size'] ==> ['sony'] support: 12 confidence: 70.5882 
+['camera', 'time'] ==> ['work'] support: 10 confidence: 76.9231 
+['case'] ==> ['phone'] support: 16 confidence: 100.0 
+['case'] ==> ['sony'] support: 12 confidence: 75.0 
+['case', 'phone'] ==> ['sony'] support: 12 confidence: 75.0 
+['color'] ==> ['phone'] support: 14 confidence: 100.0 
+['color'] ==> ['sony'] support: 13 confidence: 92.8571 
+['color', 'phone'] ==> ['sony'] support: 13 confidence: 92.8571 
+['compact'] ==> ['sony'] support: 12 confidence: 66.6667 
+['compact', 'phone'] ==> ['sony'] support: 10 confidence: 62.5 
+['day', 'life'] ==> ['phone'] support: 11 confidence: 100.0 
+['display'] ==> ['phone'] support: 11 confidence: 100.0 
+['edge'] ==> ['phone'] support: 10 confidence: 100.0 
+['feature'] ==> ['size'] support: 12 confidence: 66.6667 
+['feature'] ==> ['work'] support: 11 confidence: 61.1111 
+['feature', 'phone'] ==> ['size'] support: 11 confidence: 64.7059 
+['feature', 'phone'] ==> ['work'] support: 11 confidence: 64.7059 
+['feel'] ==> ['hand'] support: 12 confidence: 70.5882 
+['feel'] ==> ['phone'] support: 17 confidence: 100.0 
+['feel', 'hand'] ==> ['phone'] support: 12 confidence: 100.0 
+['finger'] ==> ['phone'] support: 12 confidence: 100.0 
+['fingerprint'] ==> ['sensor'] support: 16 confidence: 69.5652 
+['fingerprint'] ==> ['sony'] support: 17 confidence: 73.913 
+['fingerprint'] ==> ['work'] support: 15 confidence: 65.2174 
+['fingerprint', 'phone'] ==> ['sensor'] support: 14 confidence: 66.6667 
+['fingerprint', 'phone'] ==> ['sony'] support: 15 confidence: 71.4286 
+['fingerprint', 'phone'] ==> ['work'] support: 15 confidence: 71.4286 
+['fingerprint', 'phone', 'screen'] ==> ['sony'] support: 10 confidence: 90.9091 
+['fingerprint', 'phone', 'sony'] ==> ['time'] support: 11 confidence: 73.3333 
+['fingerprint', 'phone', 'sony'] ==> ['work'] support: 13 confidence: 86.6667 
+['fingerprint', 'screen'] ==> ['sony'] support: 11 confidence: 91.6667 
+['fingerprint', 'screen'] ==> ['time'] support: 10 confidence: 83.3333 
+['fingerprint', 'screen', 'sony'] ==> ['time'] support: 10 confidence: 90.9091 
+['fingerprint', 'sensor'] ==> ['sony'] support: 11 confidence: 68.75 
+['fingerprint', 'sony'] ==> ['time'] support: 12 confidence: 70.5882 
+['fingerprint', 'sony'] ==> ['work'] support: 13 confidence: 76.4706 
+['hand'] ==> ['sony'] support: 19 confidence: 61.2903 
+['hand', 'phone'] ==> ['sony'] support: 18 confidence: 62.069 
+['jack'] ==> ['sony'] support: 10 confidence: 83.3333 
+['life', 'phone'] ==> ['sony'] support: 13 confidence: 61.9048 
+['lot', 'phone'] ==> ['work'] support: 10 confidence: 62.5 
+['month'] ==> ['phone'] support: 15 confidence: 100.0 
+['month'] ==> ['sony'] support: 13 confidence: 86.6667 
+['month', 'phone'] ==> ['sony'] support: 13 confidence: 86.6667 
+['network'] ==> ['verizon'] support: 10 confidence: 71.4286 
+['phone', 'pocket'] ==> ['size'] support: 10 confidence: 62.5 
+['phone', 'quality'] ==> ['sony'] support: 10 confidence: 90.9091 
+['phone', 'samsung'] ==> ['sony'] support: 11 confidence: 84.6154 
+['phone', 'screen'] ==> ['sony'] support: 20 confidence: 68.9655 
+['phone', 'screen', 'sony'] ==> ['time'] support: 12 confidence: 60.0 
+['phone', 'size', 'sony'] ==> ['time'] support: 11 confidence: 73.3333 
+['quality'] ==> ['sony'] support: 10 confidence: 76.9231 
+['samsung'] ==> ['sony'] support: 12 confidence: 85.7143 
+['screen'] ==> ['sony'] support: 21 confidence: 67.7419 
+['screen', 'sony'] ==> ['time'] support: 13 confidence: 61.9048 
+['size', 'sony'] ==> ['time'] support: 11 confidence: 68.75 

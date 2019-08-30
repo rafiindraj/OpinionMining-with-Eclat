@@ -1,0 +1,1 @@
+['app', 'button', 'enjoy', 'fan', 'feature', 'fingerprint', 'htc', 'location', 'phone', 'screen', 'squeeze', 'battery', 'day'],

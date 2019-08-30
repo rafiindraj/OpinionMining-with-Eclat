@@ -1,0 +1,14 @@
+['battery', 'camera', 'fingerprint'] ==> ['screen'] support: 15 confidence: 83.3333 
+['battery', 'camera', 'fingerprint', 'phone'] ==> ['screen'] support: 15 confidence: 83.3333 
+['battery', 'fingerprint'] ==> ['screen'] support: 16 confidence: 76.1905 
+['battery', 'fingerprint', 'phone'] ==> ['screen'] support: 16 confidence: 76.1905 
+['battery', 'fingerprint', 'phone', 'screen'] ==> ['sony'] support: 15 confidence: 93.75 
+['battery', 'fingerprint', 'screen'] ==> ['sony'] support: 15 confidence: 93.75 
+['button'] ==> ['camera'] support: 18 confidence: 81.8182 
+['camera', 'day'] ==> ['screen'] support: 15 confidence: 78.9474 
+['camera', 'day', 'phone'] ==> ['screen'] support: 15 confidence: 83.3333 
+['camera', 'phone', 'quality'] ==> ['screen'] support: 16 confidence: 84.2105 
+['camera', 'quality'] ==> ['screen'] support: 17 confidence: 80.9524 
+['color'] ==> ['sony'] support: 19 confidence: 90.4762 
+['color', 'phone'] ==> ['sony'] support: 19 confidence: 90.4762 
+['option', 'phone'] ==> ['sony'] support: 15 confidence: 93.75 

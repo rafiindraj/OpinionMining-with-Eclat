@@ -1,0 +1,61 @@
+ ['work'] : 3 
+ ['work', 'quality'] : 3 
+ ['work', 'camera', 'quality'] : 3 
+ ['work', 'camera'] : 3 
+ ['samsung'] : 3 
+ ['camera', 'samsung'] : 3 
+ ['speaker'] : 3 
+ ['camera', 'speaker'] : 3 
+ ['software'] : 3 
+ ['cell'] : 3 
+ ['point'] : 3 
+ ['point', 'flagship'] : 3 
+ ['price'] : 3 
+ ['jack'] : 3 
+ ['headphone', 'jack'] : 3 
+ ['headphone', 'camera', 'jack'] : 3 
+ ['camera', 'jack'] : 3 
+ ['headphone'] : 3 
+ ['headphone', 'camera'] : 3 
+ ['flagship'] : 3 
+ ['amazon'] : 3 
+ ['amazon', 'lg'] : 3 
+ ['thing'] : 3 
+ ['thing', 'time'] : 3 
+ ['thing', 'camera', 'time'] : 3 
+ ['thing', 'camera'] : 3 
+ ['feature'] : 3 
+ ['camera', 'feature'] : 3 
+ ['iphone'] : 3 
+ ['v40', 'iphone'] : 3 
+ ['v40', 'iphone', 'camera'] : 3 
+ ['camera', 'iphone'] : 3 
+ ['v40'] : 3 
+ ['v40', 'camera'] : 3 
+ ['phone'] : 4 
+ ['camera', 'phone'] : 3 
+ ['screen'] : 4 
+ ['quality', 'screen'] : 3 
+ ['camera', 'quality', 'screen'] : 3 
+ ['camera', 'screen'] : 4 
+ ['picture'] : 4 
+ ['lg', 'picture'] : 3 
+ ['camera', 'lg', 'picture'] : 3 
+ ['camera', 'picture'] : 4 
+ ['day'] : 4 
+ ['battery', 'day'] : 3 
+ ['lg', 'day'] : 3 
+ ['camera', 'lg', 'day'] : 3 
+ ['camera', 'day'] : 3 
+ ['battery'] : 4 
+ ['battery', 'lg'] : 3 
+ ['battery', 'camera', 'lg'] : 3 
+ ['battery', 'camera'] : 3 
+ ['time'] : 4 
+ ['lg', 'time'] : 3 
+ ['camera', 'time'] : 3 
+ ['quality'] : 5 
+ ['camera', 'quality'] : 5 
+ ['lg'] : 6 
+ ['camera', 'lg'] : 5 
+ ['camera'] : 13 

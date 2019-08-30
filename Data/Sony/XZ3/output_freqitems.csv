@@ -1,0 +1,33 @@
+ ['fingerprint'] : 10 
+ ['fingerprint', 'phone'] : 10 
+ ['display'] : 10 
+ ['case'] : 11 
+ ['case', 'phone'] : 10 
+ ['battery'] : 12 
+ ['screen', 'battery'] : 10 
+ ['screen', 'battery', 'phone'] : 10 
+ ['battery', 'phone'] : 11 
+ ['day'] : 12 
+ ['day', 'screen'] : 10 
+ ['day', 'screen', 'phone'] : 10 
+ ['day', 'phone'] : 11 
+ ['work'] : 13 
+ ['sony', 'work'] : 10 
+ ['phone', 'work'] : 11 
+ ['quality'] : 15 
+ ['quality', 'camera'] : 11 
+ ['phone', 'quality', 'camera'] : 10 
+ ['quality', 'phone'] : 12 
+ ['camera'] : 23 
+ ['sony', 'camera'] : 13 
+ ['phone', 'sony', 'camera'] : 12 
+ ['screen', 'camera'] : 15 
+ ['screen', 'phone', 'camera'] : 14 
+ ['phone', 'camera'] : 21 
+ ['screen'] : 23 
+ ['screen', 'sony'] : 14 
+ ['screen', 'phone', 'sony'] : 14 
+ ['screen', 'phone'] : 22 
+ ['sony'] : 27 
+ ['phone', 'sony'] : 23 
+ ['phone'] : 45 

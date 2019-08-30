@@ -1,0 +1,14 @@
+['amazon'] ==> ['lg'] support: 3 confidence: 100.0 
+['battery'] ==> ['camera'] support: 3 confidence: 75.0 
+['battery'] ==> ['day'] support: 3 confidence: 75.0 
+['battery'] ==> ['lg'] support: 3 confidence: 75.0 
+['battery', 'camera'] ==> ['lg'] support: 3 confidence: 100.0 
+['camera', 'day'] ==> ['lg'] support: 3 confidence: 100.0 
+['camera', 'headphone'] ==> ['jack'] support: 3 confidence: 100.0 
+['camera', 'iphone'] ==> ['v40'] support: 3 confidence: 100.0 
+['camera', 'thing'] ==> ['time'] support: 3 confidence: 100.0 
+['day'] ==> ['lg'] support: 3 confidence: 75.0 
+['flagship'] ==> ['point'] support: 3 confidence: 100.0 
+['headphone'] ==> ['jack'] support: 3 confidence: 100.0 
+['iphone'] ==> ['v40'] support: 3 confidence: 100.0 
+['thing'] ==> ['time'] support: 3 confidence: 100.0 

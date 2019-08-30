@@ -1,0 +1,38 @@
+['att'] ==> ['phone'] support: 3 confidence: 75.0 
+['att'] ==> ['problem'] support: 3 confidence: 75.0 
+['att'] ==> ['year'] support: 3 confidence: 75.0 
+['att', 'phone'] ==> ['year'] support: 3 confidence: 100.0 
+['battery', 'camera'] ==> ['life'] support: 5 confidence: 83.3333 
+['battery', 'camera', 'charge'] ==> ['price'] support: 3 confidence: 100.0 
+['battery', 'camera', 'lg'] ==> ['screen'] support: 3 confidence: 100.0 
+['battery', 'camera', 'life', 'screen'] ==> ['software'] support: 3 confidence: 100.0 
+['battery', 'camera', 'screen'] ==> ['software'] support: 3 confidence: 75.0 
+['battery', 'charge'] ==> ['price'] support: 3 confidence: 100.0 
+['battery', 'lg'] ==> ['screen'] support: 3 confidence: 100.0 
+['battery', 'life', 'screen'] ==> ['software'] support: 3 confidence: 100.0 
+['battery', 'price'] ==> ['samsung'] support: 3 confidence: 75.0 
+['battery', 'screen'] ==> ['software'] support: 3 confidence: 75.0 
+['bloatware'] ==> ['screen'] support: 3 confidence: 75.0 
+['call'] ==> ['problem'] support: 3 confidence: 100.0 
+['camera', 'charge'] ==> ['price'] support: 3 confidence: 100.0 
+['camera', 'lg', 'thing'] ==> ['year'] support: 3 confidence: 100.0 
+['camera', 'life', 'screen'] ==> ['software'] support: 3 confidence: 100.0 
+['camera', 'phone'] ==> ['thing'] support: 3 confidence: 100.0 
+['camera', 'screen'] ==> ['software'] support: 3 confidence: 75.0 
+['camera', 'thing'] ==> ['year'] support: 3 confidence: 75.0 
+['case'] ==> ['screen'] support: 3 confidence: 100.0 
+['charge'] ==> ['price'] support: 3 confidence: 75.0 
+['deal'] ==> ['price'] support: 3 confidence: 100.0 
+['feature'] ==> ['price'] support: 3 confidence: 100.0 
+['issue', 'phone'] ==> ['thing'] support: 3 confidence: 100.0 
+['issue', 'phone'] ==> ['year'] support: 3 confidence: 100.0 
+['issue', 'phone', 'thing'] ==> ['year'] support: 3 confidence: 100.0 
+['issue', 'thing'] ==> ['year'] support: 3 confidence: 100.0 
+['lg', 'thing'] ==> ['year'] support: 3 confidence: 100.0 
+['life', 'screen'] ==> ['software'] support: 3 confidence: 100.0 
+['phone'] ==> ['thing'] support: 4 confidence: 80.0 
+['phone'] ==> ['year'] support: 4 confidence: 80.0 
+['phone', 'problem'] ==> ['year'] support: 3 confidence: 100.0 
+['phone', 'thing'] ==> ['year'] support: 3 confidence: 75.0 
+['picture'] ==> ['week'] support: 3 confidence: 75.0 
+['ram'] ==> ['screen'] support: 3 confidence: 100.0 

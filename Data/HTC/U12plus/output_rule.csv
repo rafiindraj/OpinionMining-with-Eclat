@@ -1,0 +1,71 @@
+['battery'] ==> ['button'] support: 11 confidence: 84.6154 
+['battery'] ==> ['phone'] support: 12 confidence: 92.3077 
+['battery', 'button'] ==> ['phone'] support: 11 confidence: 100.0 
+['battery', 'button', 'camera'] ==> ['phone'] support: 8 confidence: 100.0 
+['battery', 'button', 'htc'] ==> ['phone'] support: 8 confidence: 100.0 
+['battery', 'button', 'htc'] ==> ['sense'] support: 7 confidence: 87.5 
+['battery', 'button', 'htc', 'phone'] ==> ['sense'] support: 7 confidence: 87.5 
+['battery', 'button', 'life'] ==> ['phone'] support: 8 confidence: 100.0 
+['battery', 'camera'] ==> ['phone'] support: 8 confidence: 100.0 
+['battery', 'htc'] ==> ['phone'] support: 9 confidence: 100.0 
+['battery', 'htc'] ==> ['sense'] support: 7 confidence: 77.7778 
+['battery', 'htc', 'phone'] ==> ['sense'] support: 7 confidence: 77.7778 
+['battery', 'life'] ==> ['phone'] support: 8 confidence: 100.0 
+['button'] ==> ['phone'] support: 19 confidence: 100.0 
+['button', 'camera'] ==> ['htc'] support: 7 confidence: 77.7778 
+['button', 'camera'] ==> ['phone'] support: 9 confidence: 100.0 
+['button', 'camera'] ==> ['sense'] support: 7 confidence: 77.7778 
+['button', 'camera', 'htc'] ==> ['phone'] support: 7 confidence: 100.0 
+['button', 'camera', 'phone'] ==> ['sense'] support: 7 confidence: 77.7778 
+['button', 'case'] ==> ['phone'] support: 11 confidence: 100.0 
+['button', 'case', 'htc'] ==> ['phone'] support: 8 confidence: 100.0 
+['button', 'case', 'htc'] ==> ['sense'] support: 7 confidence: 87.5 
+['button', 'case', 'htc', 'phone'] ==> ['sense'] support: 7 confidence: 87.5 
+['button', 'device'] ==> ['htc'] support: 7 confidence: 87.5 
+['button', 'device'] ==> ['phone'] support: 8 confidence: 100.0 
+['button', 'device', 'htc'] ==> ['phone'] support: 7 confidence: 100.0 
+['button', 'edge'] ==> ['htc'] support: 7 confidence: 100.0 
+['button', 'edge'] ==> ['phone'] support: 7 confidence: 100.0 
+['button', 'edge'] ==> ['sense'] support: 7 confidence: 100.0 
+['button', 'edge', 'htc'] ==> ['phone'] support: 7 confidence: 100.0 
+['button', 'edge', 'htc'] ==> ['sense'] support: 7 confidence: 100.0 
+['button', 'edge', 'htc', 'phone'] ==> ['sense'] support: 7 confidence: 100.0 
+['button', 'edge', 'phone'] ==> ['sense'] support: 7 confidence: 100.0 
+['button', 'htc'] ==> ['phone'] support: 13 confidence: 100.0 
+['button', 'htc'] ==> ['sense'] support: 10 confidence: 76.9231 
+['button', 'htc', 'phone'] ==> ['sense'] support: 10 confidence: 76.9231 
+['button', 'life'] ==> ['phone'] support: 8 confidence: 100.0 
+['camera'] ==> ['phone'] support: 14 confidence: 100.0 
+['camera', 'htc'] ==> ['phone'] support: 8 confidence: 100.0 
+['case'] ==> ['phone'] support: 14 confidence: 100.0 
+['case', 'htc'] ==> ['phone'] support: 10 confidence: 100.0 
+['case', 'htc'] ==> ['sense'] support: 8 confidence: 80.0 
+['case', 'htc', 'phone'] ==> ['sense'] support: 8 confidence: 80.0 
+['day'] ==> ['phone'] support: 10 confidence: 90.9091 
+['day', 'htc'] ==> ['phone'] support: 7 confidence: 87.5 
+['day', 'htc'] ==> ['time'] support: 7 confidence: 87.5 
+['day', 'htc', 'phone'] ==> ['time'] support: 7 confidence: 100.0 
+['device'] ==> ['htc'] support: 10 confidence: 90.9091 
+['device'] ==> ['phone'] support: 10 confidence: 90.9091 
+['device', 'htc'] ==> ['phone'] support: 9 confidence: 90.0 
+['edge'] ==> ['htc'] support: 7 confidence: 77.7778 
+['edge'] ==> ['phone'] support: 9 confidence: 100.0 
+['edge'] ==> ['sense'] support: 9 confidence: 100.0 
+['edge', 'htc'] ==> ['phone'] support: 7 confidence: 100.0 
+['edge', 'htc'] ==> ['sense'] support: 7 confidence: 100.0 
+['edge', 'htc', 'phone'] ==> ['sense'] support: 7 confidence: 100.0 
+['edge', 'phone'] ==> ['sense'] support: 9 confidence: 100.0 
+['feature'] ==> ['phone'] support: 7 confidence: 87.5 
+['glass'] ==> ['phone'] support: 7 confidence: 100.0 
+['htc'] ==> ['phone'] support: 20 confidence: 90.9091 
+['htc', 'life'] ==> ['phone'] support: 7 confidence: 100.0 
+['htc', 'lot'] ==> ['phone'] support: 7 confidence: 100.0 
+['issue'] ==> ['phone'] support: 7 confidence: 87.5 
+['life'] ==> ['phone'] support: 9 confidence: 100.0 
+['life'] ==> ['screen'] support: 7 confidence: 77.7778 
+['life'] ==> ['sense'] support: 7 confidence: 77.7778 
+['life'] ==> ['time'] support: 7 confidence: 77.7778 
+['life', 'phone'] ==> ['screen'] support: 7 confidence: 77.7778 
+['life', 'phone'] ==> ['sense'] support: 7 confidence: 77.7778 
+['life', 'phone'] ==> ['time'] support: 7 confidence: 77.7778 
+['lot'] ==> ['phone'] support: 7 confidence: 100.0 

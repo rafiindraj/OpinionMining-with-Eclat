@@ -1,0 +1,313 @@
+ ['service'] : 4 
+ ['service', 'lg'] : 4 
+ ['choice'] : 4 
+ ['buy'] : 4 
+ ['deal'] : 4 
+ ['dont'] : 4 
+ ['price'] : 4 
+ ['purchase'] : 4 
+ ['user'] : 4 
+ ['front'] : 4 
+ ['phone', 'front'] : 4 
+ ['phone', 'front', 'thing'] : 4 
+ ['camera', 'phone', 'front', 'thing'] : 4 
+ ['camera', 'phone', 'front'] : 4 
+ ['front', 'thing'] : 4 
+ ['camera', 'front', 'thing'] : 4 
+ ['camera', 'front'] : 4 
+ ['protector'] : 4 
+ ['protector', 'screen'] : 4 
+ ['protector', 'camera', 'screen'] : 4 
+ ['protector', 'camera'] : 4 
+ ['glass'] : 4 
+ ['feature', 'glass'] : 4 
+ ['store'] : 4 
+ ['love'] : 4 
+ ['speed'] : 4 
+ ['place'] : 4 
+ ['place', 'day'] : 4 
+ ['feature', 'place', 'day'] : 4 
+ ['feature', 'place'] : 4 
+ ['size'] : 4 
+ ['size', 'battery'] : 4 
+ ['device'] : 5 
+ ['speaker'] : 5 
+ ['speaker', 'android'] : 4 
+ ['google', 'speaker', 'android'] : 4 
+ ['google', 'speaker', 'time', 'android'] : 4 
+ ['camera', 'time', 'google', 'speaker', 'android'] : 4 
+ ['camera', 'time', 'google', 'speaker', 'android', 'lg'] : 4 
+ ['time', 'google', 'speaker', 'android', 'lg'] : 4 
+ ['google', 'speaker', 'camera', 'android'] : 4 
+ ['camera', 'google', 'speaker', 'android', 'lg'] : 4 
+ ['google', 'speaker', 'android', 'lg'] : 4 
+ ['speaker', 'time', 'android'] : 4 
+ ['speaker', 'time', 'camera', 'android'] : 4 
+ ['camera', 'time', 'speaker', 'android', 'lg'] : 4 
+ ['speaker', 'time', 'android', 'lg'] : 4 
+ ['speaker', 'camera', 'android'] : 4 
+ ['speaker', 'camera', 'android', 'lg'] : 4 
+ ['speaker', 'android', 'lg'] : 4 
+ ['google', 'speaker'] : 4 
+ ['google', 'speaker', 'time'] : 4 
+ ['google', 'speaker', 'time', 'camera'] : 4 
+ ['camera', 'time', 'google', 'speaker', 'lg'] : 4 
+ ['google', 'speaker', 'time', 'lg'] : 4 
+ ['google', 'speaker', 'camera'] : 4 
+ ['google', 'speaker', 'camera', 'lg'] : 4 
+ ['google', 'speaker', 'lg'] : 4 
+ ['speaker', 'time'] : 4 
+ ['speaker', 'time', 'camera'] : 4 
+ ['speaker', 'time', 'camera', 'lg'] : 4 
+ ['speaker', 'time', 'lg'] : 4 
+ ['speaker', 'g7'] : 4 
+ ['lg', 'speaker', 'g7'] : 4 
+ ['speaker', 'camera'] : 4 
+ ['speaker', 'camera', 'lg'] : 4 
+ ['speaker', 'lg'] : 5 
+ ['thinq'] : 5 
+ ['thinq', 'g7'] : 4 
+ ['thinq', 'lg'] : 4 
+ ['flagship'] : 5 
+ ['time', 'flagship'] : 4 
+ ['time', 'flagship', 'lg'] : 4 
+ ['flagship', 'lg'] : 5 
+ ['update'] : 5 
+ ['update', 'android'] : 4 
+ ['time', 'update', 'android'] : 4 
+ ['time', 'update', 'android', 'lg'] : 4 
+ ['update', 'android', 'lg'] : 4 
+ ['time', 'update'] : 4 
+ ['time', 'update', 'lg'] : 4 
+ ['update', 'lg'] : 4 
+ ['year'] : 5 
+ ['year', 'lg'] : 4 
+ ['model'] : 5 
+ ['t'] : 5 
+ ['performance'] : 5 
+ ['problem'] : 5 
+ ['samsung'] : 5 
+ ['claro'] : 5 
+ ['claro', 'network'] : 4 
+ ['super'] : 5 
+ ['battery', 'super'] : 4 
+ ['seller'] : 5 
+ ['call'] : 5 
+ ['call', 'quality'] : 4 
+ ['wireless'] : 5 
+ ['lg', 'wireless'] : 4 
+ ['video'] : 6 
+ ['google', 'video'] : 4 
+ ['google', 'video', 'lg'] : 4 
+ ['quality', 'video'] : 4 
+ ['video', 'lg'] : 5 
+ ['hour'] : 6 
+ ['hour', 'lg'] : 4 
+ ['iphone'] : 6 
+ ['phone', 'iphone'] : 4 
+ ['camera', 'phone', 'iphone'] : 4 
+ ['camera', 'iphone'] : 4 
+ ['lg', 'iphone'] : 4 
+ ['picture'] : 6 
+ ['display'] : 6 
+ ['product'] : 6 
+ ['android'] : 6 
+ ['phone', 'android'] : 4 
+ ['time', 'phone', 'android'] : 4 
+ ['time', 'phone', 'android', 'lg'] : 4 
+ ['phone', 'android', 'lg'] : 4 
+ ['google', 'android'] : 4 
+ ['google', 'camera', 'android'] : 4 
+ ['google', 'camera', 'time', 'android'] : 4 
+ ['camera', 'time', 'google', 'android', 'lg'] : 4 
+ ['google', 'camera', 'android', 'lg'] : 4 
+ ['google', 'time', 'android'] : 4 
+ ['google', 'time', 'android', 'lg'] : 4 
+ ['google', 'android', 'lg'] : 4 
+ ['camera', 'android'] : 4 
+ ['camera', 'time', 'android'] : 4 
+ ['camera', 'time', 'android', 'lg'] : 4 
+ ['camera', 'android', 'lg'] : 4 
+ ['time', 'android'] : 5 
+ ['time', 'android', 'lg'] : 5 
+ ['android', 'lg'] : 5 
+ ['photo'] : 6 
+ ['camera', 'photo'] : 4 
+ ['quality', 'photo'] : 4 
+ ['life'] : 6 
+ ['sound', 'life'] : 4 
+ ['sound', 'life', 'battery'] : 4 
+ ['life', 'battery'] : 6 
+ ['jack'] : 6 
+ ['jack', 'headphone'] : 4 
+ ['jack', 'screen'] : 4 
+ ['jack', 'feature'] : 4 
+ ['jack', 'feature', 'lg'] : 4 
+ ['jack', 'battery'] : 4 
+ ['jack', 'lg'] : 4 
+ ['headphone'] : 6 
+ ['headphone', 'day'] : 4 
+ ['google', 'headphone', 'day'] : 4 
+ ['google', 'headphone', 'day', 'battery'] : 4 
+ ['day', 'battery', 'google', 'lg', 'headphone'] : 4 
+ ['google', 'headphone', 'day', 'lg'] : 4 
+ ['headphone', 'day', 'battery'] : 4 
+ ['headphone', 'day', 'lg', 'battery'] : 4 
+ ['headphone', 'day', 'lg'] : 4 
+ ['google', 'headphone'] : 4 
+ ['google', 'headphone', 'battery'] : 4 
+ ['google', 'headphone', 'lg', 'battery'] : 4 
+ ['google', 'headphone', 'lg'] : 4 
+ ['time', 'headphone'] : 4 
+ ['time', 'headphone', 'lg'] : 4 
+ ['headphone', 'screen'] : 4 
+ ['headphone', 'battery'] : 4 
+ ['headphone', 'lg', 'battery'] : 4 
+ ['headphone', 'lg'] : 5 
+ ['sound'] : 7 
+ ['sound', 'phone'] : 4 
+ ['sound', 'screen'] : 4 
+ ['sound', 'screen', 'battery'] : 4 
+ ['sound', 'g7'] : 4 
+ ['lg', 'sound', 'g7'] : 4 
+ ['sound', 'lg'] : 4 
+ ['sound', 'battery'] : 5 
+ ['phone'] : 7 
+ ['phone', 'thing'] : 4 
+ ['camera', 'phone', 'thing'] : 4 
+ ['phone', 'feature'] : 4 
+ ['phone', 'time'] : 5 
+ ['phone', 'time', 'g7'] : 4 
+ ['lg', 'phone', 'time', 'g7'] : 4 
+ ['phone', 'time', 'lg'] : 5 
+ ['phone', 'g7'] : 5 
+ ['camera', 'phone', 'g7'] : 4 
+ ['lg', 'camera', 'phone', 'g7'] : 4 
+ ['lg', 'phone', 'g7'] : 5 
+ ['camera', 'phone'] : 5 
+ ['camera', 'phone', 'lg'] : 4 
+ ['phone', 'lg'] : 6 
+ ['network'] : 7 
+ ['verizon', 'network'] : 4 
+ ['day'] : 7 
+ ['google', 'day'] : 4 
+ ['google', 'day', 'lg'] : 4 
+ ['google', 'day', 'lg', 'battery'] : 4 
+ ['google', 'day', 'battery'] : 4 
+ ['time', 'day'] : 4 
+ ['time', 'screen', 'day'] : 4 
+ ['time', 'screen', 'day', 'thing'] : 4 
+ ['camera', 'time', 'screen', 'day', 'thing'] : 4 
+ ['camera', 'time', 'screen', 'day'] : 4 
+ ['time', 'day', 'thing'] : 4 
+ ['camera', 'time', 'day', 'thing'] : 4 
+ ['camera', 'time', 'day'] : 4 
+ ['screen', 'day'] : 5 
+ ['feature', 'screen', 'day'] : 4 
+ ['feature', 'screen', 'day', 'thing'] : 4 
+ ['camera', 'screen', 'day', 'thing', 'feature'] : 4 
+ ['camera', 'feature', 'screen', 'day'] : 4 
+ ['screen', 'day', 'battery'] : 4 
+ ['thing', 'screen', 'day', 'battery'] : 4 
+ ['camera', 'screen', 'day', 'thing', 'battery'] : 4 
+ ['camera', 'screen', 'day', 'battery'] : 4 
+ ['screen', 'day', 'thing'] : 5 
+ ['camera', 'screen', 'day', 'thing'] : 5 
+ ['camera', 'screen', 'day'] : 5 
+ ['day', 'thing'] : 5 
+ ['feature', 'day', 'thing'] : 4 
+ ['camera', 'feature', 'day', 'thing'] : 4 
+ ['battery', 'day', 'thing'] : 4 
+ ['camera', 'battery', 'day', 'thing'] : 4 
+ ['camera', 'day', 'thing'] : 5 
+ ['feature', 'day'] : 5 
+ ['camera', 'feature', 'day'] : 4 
+ ['feature', 'day', 'battery'] : 4 
+ ['camera', 'day'] : 5 
+ ['camera', 'day', 'battery'] : 4 
+ ['day', 'lg'] : 5 
+ ['day', 'lg', 'battery'] : 5 
+ ['day', 'battery'] : 6 
+ ['google'] : 7 
+ ['google', 'time'] : 4 
+ ['google', 'camera', 'time'] : 4 
+ ['google', 'camera', 'time', 'lg'] : 4 
+ ['google', 'time', 'lg'] : 4 
+ ['google', 'feature'] : 4 
+ ['google', 'feature', 'lg'] : 4 
+ ['google', 'g7'] : 4 
+ ['google', 'camera', 'g7'] : 4 
+ ['google', 'battery'] : 4 
+ ['google', 'lg', 'battery'] : 4 
+ ['google', 'screen'] : 5 
+ ['google', 'camera', 'screen'] : 4 
+ ['google', 'screen', 'lg'] : 4 
+ ['google', 'camera'] : 5 
+ ['google', 'camera', 'lg'] : 4 
+ ['google', 'lg'] : 6 
+ ['issue'] : 8 
+ ['issue', 'lg'] : 5 
+ ['time'] : 9 
+ ['time', 'screen'] : 4 
+ ['time', 'screen', 'thing'] : 4 
+ ['camera', 'time', 'screen', 'thing'] : 4 
+ ['camera', 'time', 'screen'] : 4 
+ ['time', 'feature'] : 4 
+ ['time', 'g7'] : 4 
+ ['lg', 'time', 'g7'] : 4 
+ ['time', 'work'] : 4 
+ ['time', 'thing'] : 5 
+ ['camera', 'time', 'thing'] : 4 
+ ['camera', 'time'] : 5 
+ ['camera', 'time', 'lg'] : 4 
+ ['time', 'lg'] : 7 
+ ['screen'] : 9 
+ ['quality', 'screen'] : 4 
+ ['screen', 'lg'] : 4 
+ ['screen', 'thing'] : 5 
+ ['feature', 'screen', 'thing'] : 4 
+ ['camera', 'feature', 'screen', 'thing'] : 4 
+ ['battery', 'screen', 'thing'] : 4 
+ ['camera', 'battery', 'screen', 'thing'] : 4 
+ ['camera', 'screen', 'thing'] : 5 
+ ['feature', 'screen'] : 5 
+ ['camera', 'feature', 'screen'] : 4 
+ ['screen', 'battery'] : 5 
+ ['camera', 'screen', 'battery'] : 4 
+ ['camera', 'screen'] : 6 
+ ['thing'] : 9 
+ ['g7', 'thing'] : 4 
+ ['lg', 'g7', 'thing'] : 4 
+ ['battery', 'thing'] : 4 
+ ['camera', 'battery', 'thing'] : 4 
+ ['work', 'thing'] : 4 
+ ['feature', 'work', 'thing'] : 4 
+ ['feature', 'thing'] : 5 
+ ['camera', 'feature', 'thing'] : 4 
+ ['lg', 'thing'] : 5 
+ ['camera', 'lg', 'thing'] : 4 
+ ['camera', 'thing'] : 6 
+ ['feature'] : 9 
+ ['camera', 'feature'] : 4 
+ ['feature', 'battery'] : 4 
+ ['feature', 'work'] : 4 
+ ['feature', 'lg'] : 6 
+ ['g7'] : 10 
+ ['quality', 'g7'] : 4 
+ ['camera', 'g7'] : 5 
+ ['lg', 'camera', 'g7'] : 4 
+ ['lg', 'g7'] : 9 
+ ['verizon'] : 10 
+ ['camera'] : 10 
+ ['camera', 'quality'] : 4 
+ ['camera', 'work'] : 4 
+ ['camera', 'battery'] : 5 
+ ['camera', 'lg'] : 5 
+ ['quality'] : 11 
+ ['quality', 'battery'] : 4 
+ ['quality', 'lg'] : 5 
+ ['battery'] : 11 
+ ['lg', 'battery'] : 5 
+ ['work'] : 13 
+ ['work', 'lg'] : 5 
+ ['lg'] : 19 

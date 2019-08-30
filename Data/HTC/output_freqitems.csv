@@ -1,0 +1,16 @@
+ ['sense'] : 15 
+ ['sense', 'phone'] : 15 
+ ['day'] : 15 
+ ['screen'] : 17 
+ ['screen', 'phone'] : 17 
+ ['battery'] : 18 
+ ['battery', 'phone'] : 17 
+ ['camera'] : 18 
+ ['camera', 'phone'] : 18 
+ ['button'] : 21 
+ ['htc', 'button'] : 15 
+ ['htc', 'button', 'phone'] : 15 
+ ['button', 'phone'] : 21 
+ ['htc'] : 28 
+ ['htc', 'phone'] : 25 
+ ['phone'] : 51 

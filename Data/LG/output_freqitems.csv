@@ -1,0 +1,179 @@
+ ['card'] : 8 
+ ['update'] : 8 
+ ['update', 'phone'] : 8 
+ ['android'] : 8 
+ ['phone', 'android'] : 8 
+ ['review'] : 8 
+ ['review', 'phone'] : 8 
+ ['love'] : 8 
+ ['carrier'] : 8 
+ ['carrier', 'phone'] : 8 
+ ['charge'] : 8 
+ ['software'] : 9 
+ ['software', 'phone'] : 8 
+ ['device'] : 9 
+ ['video'] : 9 
+ ['video', 'phone'] : 9 
+ ['att'] : 9 
+ ['att', 'phone'] : 9 
+ ['flagship'] : 9 
+ ['flagship', 'phone'] : 8 
+ ['purchase'] : 9 
+ ['phone', 'purchase'] : 8 
+ ['performance'] : 9 
+ ['performance', 'phone'] : 8 
+ ['display'] : 9 
+ ['display', 'phone'] : 9 
+ ['product'] : 9 
+ ['product', 'phone'] : 8 
+ ['seller'] : 9 
+ ['seller', 'phone'] : 8 
+ ['google'] : 9 
+ ['google', 'phone'] : 9 
+ ['service'] : 10 
+ ['phone', 'service'] : 9 
+ ['iphone'] : 10 
+ ['iphone', 'camera'] : 8 
+ ['phone', 'iphone', 'camera'] : 8 
+ ['iphone', 'phone'] : 10 
+ ['photo'] : 10 
+ ['photo', 'phone'] : 8 
+ ['call'] : 10 
+ ['call', 'phone'] : 10 
+ ['wireless'] : 10 
+ ['wireless', 'phone'] : 10 
+ ['jack'] : 10 
+ ['headphone', 'jack'] : 8 
+ ['headphone', 'phone', 'jack'] : 8 
+ ['phone', 'jack'] : 10 
+ ['headphone'] : 10 
+ ['headphone', 'phone'] : 10 
+ ['sound'] : 11 
+ ['lg', 'sound'] : 8 
+ ['lg', 'sound', 'phone'] : 8 
+ ['sound', 'phone'] : 11 
+ ['verizon'] : 11 
+ ['verizon', 'phone'] : 10 
+ ['samsung'] : 12 
+ ['camera', 'samsung'] : 8 
+ ['camera', 'phone', 'samsung'] : 8 
+ ['phone', 'samsung'] : 10 
+ ['g7'] : 12 
+ ['g7', 'lg'] : 10 
+ ['g7', 'lg', 'phone'] : 8 
+ ['g7', 'phone'] : 10 
+ ['network'] : 12 
+ ['network', 'phone'] : 11 
+ ['speaker'] : 13 
+ ['lg', 'speaker'] : 9 
+ ['lg', 'speaker', 'phone'] : 9 
+ ['speaker', 'camera'] : 10 
+ ['speaker', 'phone', 'camera'] : 9 
+ ['speaker', 'phone'] : 12 
+ ['year'] : 13 
+ ['year', 'phone'] : 12 
+ ['problem'] : 13 
+ ['problem', 'phone'] : 12 
+ ['picture'] : 14 
+ ['camera', 'picture'] : 9 
+ ['phone', 'camera', 'picture'] : 9 
+ ['phone', 'picture'] : 13 
+ ['life'] : 14 
+ ['life', 'camera'] : 9 
+ ['life', 'phone', 'camera'] : 8 
+ ['battery', 'life', 'phone', 'camera'] : 8 
+ ['battery', 'life', 'camera'] : 9 
+ ['life', 'phone'] : 10 
+ ['battery', 'life', 'phone'] : 10 
+ ['battery', 'life'] : 14 
+ ['time'] : 15 
+ ['thing', 'time'] : 10 
+ ['thing', 'time', 'camera'] : 9 
+ ['thing', 'time', 'phone', 'camera'] : 9 
+ ['thing', 'time', 'phone'] : 10 
+ ['time', 'camera'] : 10 
+ ['time', 'phone', 'camera'] : 10 
+ ['lg', 'time'] : 11 
+ ['lg', 'time', 'phone'] : 11 
+ ['time', 'phone'] : 15 
+ ['day'] : 15 
+ ['day', 'screen'] : 8 
+ ['day', 'screen', 'phone'] : 8 
+ ['thing', 'day'] : 9 
+ ['thing', 'day', 'camera'] : 8 
+ ['thing', 'day', 'phone', 'camera'] : 8 
+ ['thing', 'day', 'phone'] : 9 
+ ['lg', 'day'] : 9 
+ ['lg', 'day', 'phone'] : 9 
+ ['day', 'camera'] : 9 
+ ['day', 'phone', 'camera'] : 9 
+ ['battery', 'day'] : 11 
+ ['battery', 'day', 'phone'] : 11 
+ ['day', 'phone'] : 15 
+ ['price'] : 16 
+ ['phone', 'price'] : 16 
+ ['issue'] : 16 
+ ['issue', 'lg'] : 8 
+ ['issue', 'lg', 'phone'] : 8 
+ ['issue', 'phone'] : 14 
+ ['feature'] : 16 
+ ['feature', 'thing'] : 8 
+ ['feature', 'thing', 'phone'] : 8 
+ ['feature', 'screen'] : 8 
+ ['feature', 'screen', 'phone'] : 8 
+ ['battery', 'feature'] : 8 
+ ['battery', 'feature', 'phone'] : 8 
+ ['feature', 'camera'] : 9 
+ ['feature', 'phone', 'camera'] : 9 
+ ['feature', 'lg'] : 10 
+ ['feature', 'lg', 'phone'] : 9 
+ ['feature', 'phone'] : 15 
+ ['thing'] : 19 
+ ['battery', 'thing'] : 8 
+ ['battery', 'thing', 'camera'] : 8 
+ ['battery', 'thing', 'phone', 'camera'] : 8 
+ ['battery', 'thing', 'phone'] : 8 
+ ['thing', 'screen'] : 9 
+ ['thing', 'screen', 'camera'] : 8 
+ ['thing', 'screen', 'phone', 'camera'] : 8 
+ ['thing', 'screen', 'phone'] : 9 
+ ['lg', 'thing'] : 10 
+ ['lg', 'thing', 'camera'] : 8 
+ ['lg', 'thing', 'phone', 'camera'] : 8 
+ ['lg', 'thing', 'phone'] : 10 
+ ['thing', 'camera'] : 13 
+ ['thing', 'phone', 'camera'] : 13 
+ ['thing', 'phone'] : 19 
+ ['screen'] : 20 
+ ['screen', 'quality'] : 9 
+ ['screen', 'quality', 'phone'] : 8 
+ ['lg', 'screen'] : 9 
+ ['lg', 'screen', 'phone'] : 9 
+ ['battery', 'screen'] : 10 
+ ['battery', 'screen', 'camera'] : 9 
+ ['battery', 'screen', 'phone', 'camera'] : 9 
+ ['battery', 'screen', 'phone'] : 10 
+ ['screen', 'camera'] : 14 
+ ['screen', 'phone', 'camera'] : 14 
+ ['screen', 'phone'] : 19 
+ ['quality'] : 21 
+ ['lg', 'quality'] : 8 
+ ['quality', 'camera'] : 12 
+ ['phone', 'quality', 'camera'] : 10 
+ ['quality', 'phone'] : 17 
+ ['battery'] : 25 
+ ['battery', 'lg'] : 10 
+ ['battery', 'lg', 'camera'] : 8 
+ ['battery', 'lg', 'phone'] : 9 
+ ['battery', 'camera'] : 14 
+ ['battery', 'phone', 'camera'] : 12 
+ ['battery', 'phone'] : 19 
+ ['work'] : 26 
+ ['phone', 'work'] : 21 
+ ['lg'] : 30 
+ ['lg', 'camera'] : 14 
+ ['lg', 'phone', 'camera'] : 13 
+ ['lg', 'phone'] : 27 
+ ['camera'] : 35 
+ ['phone', 'camera'] : 31 
+ ['phone'] : 95 

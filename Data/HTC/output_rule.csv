@@ -1,0 +1,5 @@
+['battery'] ==> ['phone'] support: 17 confidence: 94.4444 
+['button'] ==> ['phone'] support: 21 confidence: 100.0 
+['button', 'htc'] ==> ['phone'] support: 15 confidence: 100.0 
+['camera'] ==> ['phone'] support: 18 confidence: 100.0 
+['htc'] ==> ['phone'] support: 25 confidence: 89.2857 

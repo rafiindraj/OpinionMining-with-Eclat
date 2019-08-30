@@ -1,0 +1,1 @@
+['camera', 'battery', 'fingerprint', 'screen', 'color', 'problem'],

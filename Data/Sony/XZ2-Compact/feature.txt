@@ -1,0 +1,1 @@
+['phone', 'fingerprint', 'camera', 'battery', 'sony', 'screen', 'hand', 'feature', 'size', 'life', 'feel', 'button', 'case', 'color', 'day', 'apps', 'month', 'samsung', 'quality', 'time', 'compact'],

@@ -1,0 +1,148 @@
+ ['v35'] : 3 
+ ['lg', 'v35'] : 3 
+ ['money'] : 3 
+ ['software'] : 3 
+ ['software', 'life'] : 3 
+ ['software', 'life', 'screen'] : 3 
+ ['battery', 'software', 'life', 'screen'] : 3 
+ ['battery', 'screen', 'camera', 'software', 'life'] : 3 
+ ['camera', 'software', 'life', 'screen'] : 3 
+ ['battery', 'software', 'life'] : 3 
+ ['battery', 'camera', 'software', 'life'] : 3 
+ ['camera', 'software', 'life'] : 3 
+ ['software', 'screen'] : 3 
+ ['battery', 'software', 'screen'] : 3 
+ ['battery', 'camera', 'software', 'screen'] : 3 
+ ['camera', 'software', 'screen'] : 3 
+ ['battery', 'software'] : 3 
+ ['battery', 'camera', 'software'] : 3 
+ ['camera', 'software'] : 3 
+ ['android'] : 3 
+ ['update'] : 3 
+ ['week'] : 3 
+ ['week', 'picture'] : 3 
+ ['ram'] : 3 
+ ['ram', 'screen'] : 3 
+ ['call'] : 3 
+ ['problem', 'call'] : 3 
+ ['case'] : 3 
+ ['case', 'screen'] : 3 
+ ['feature'] : 3 
+ ['price', 'feature'] : 3 
+ ['seller'] : 3 
+ ['deal'] : 3 
+ ['deal', 'price'] : 3 
+ ['beware'] : 3 
+ ['network'] : 3 
+ ['device'] : 3 
+ ['carrier'] : 4 
+ ['lot'] : 4 
+ ['lot', 'battery'] : 3 
+ ['samsung'] : 4 
+ ['price', 'samsung'] : 3 
+ ['battery', 'price', 'samsung'] : 3 
+ ['battery', 'samsung'] : 3 
+ ['camera', 'samsung'] : 3 
+ ['charge'] : 4 
+ ['price', 'charge'] : 3 
+ ['battery', 'price', 'charge'] : 3 
+ ['battery', 'camera', 'price', 'charge'] : 3 
+ ['camera', 'price', 'charge'] : 3 
+ ['battery', 'charge'] : 3 
+ ['camera', 'battery', 'charge'] : 3 
+ ['camera', 'charge'] : 3 
+ ['picture'] : 4 
+ ['camera', 'picture'] : 3 
+ ['wireless'] : 4 
+ ['day'] : 4 
+ ['att'] : 4 
+ ['att', 'phone'] : 3 
+ ['year', 'att', 'phone'] : 3 
+ ['problem', 'att'] : 3 
+ ['att', 'year'] : 3 
+ ['review'] : 4 
+ ['issue', 'review'] : 3 
+ ['review', 'price'] : 3 
+ ['purchase'] : 4 
+ ['purchase', 'price'] : 3 
+ ['bloatware'] : 4 
+ ['bloatware', 'screen'] : 3 
+ ['cricket'] : 4 
+ ['quality'] : 5 
+ ['camera', 'quality'] : 3 
+ ['phone'] : 5 
+ ['issue', 'phone'] : 3 
+ ['year', 'issue', 'phone'] : 3 
+ ['year', 'issue', 'thing', 'phone'] : 3 
+ ['issue', 'thing', 'phone'] : 3 
+ ['problem', 'phone'] : 3 
+ ['year', 'problem', 'phone'] : 3 
+ ['battery', 'phone'] : 3 
+ ['camera', 'phone'] : 3 
+ ['camera', 'thing', 'phone'] : 3 
+ ['year', 'phone'] : 4 
+ ['year', 'thing', 'phone'] : 3 
+ ['thing', 'phone'] : 4 
+ ['speaker'] : 5 
+ ['problem', 'speaker'] : 3 
+ ['speaker', 'year'] : 3 
+ ['camera', 'speaker'] : 3 
+ ['service'] : 5 
+ ['love'] : 6 
+ ['love', 'lg'] : 3 
+ ['love', 'camera', 'lg'] : 3 
+ ['love', 'camera'] : 3 
+ ['issue'] : 6 
+ ['issue', 'year'] : 3 
+ ['issue', 'thing', 'year'] : 3 
+ ['issue', 'thing'] : 3 
+ ['issue', 'battery'] : 3 
+ ['work', 'issue'] : 3 
+ ['problem'] : 6 
+ ['lg', 'problem'] : 3 
+ ['problem', 'year'] : 4 
+ ['year'] : 6 
+ ['camera', 'year'] : 3 
+ ['camera', 'lg', 'year'] : 3 
+ ['camera', 'lg', 'thing', 'year'] : 3 
+ ['camera', 'thing', 'year'] : 3 
+ ['lg', 'year'] : 4 
+ ['lg', 'thing', 'year'] : 3 
+ ['thing', 'year'] : 4 
+ ['t'] : 6 
+ ['card'] : 6 
+ ['price', 'card'] : 3 
+ ['battery', 'card'] : 3 
+ ['work', 'card'] : 3 
+ ['lg'] : 7 
+ ['lg', 'thing'] : 3 
+ ['camera', 'lg', 'thing'] : 3 
+ ['lg', 'screen'] : 3 
+ ['lg', 'battery', 'screen'] : 3 
+ ['camera', 'lg', 'battery', 'screen'] : 3 
+ ['camera', 'lg', 'screen'] : 3 
+ ['lg', 'battery'] : 3 
+ ['camera', 'lg', 'battery'] : 3 
+ ['camera', 'lg'] : 5 
+ ['life'] : 7 
+ ['life', 'screen'] : 3 
+ ['camera', 'life', 'screen'] : 3 
+ ['camera', 'battery', 'life', 'screen'] : 3 
+ ['battery', 'life', 'screen'] : 3 
+ ['camera', 'life'] : 5 
+ ['camera', 'battery', 'life'] : 5 
+ ['battery', 'life'] : 7 
+ ['thing'] : 7 
+ ['camera', 'thing'] : 4 
+ ['screen'] : 7 
+ ['battery', 'screen'] : 4 
+ ['camera', 'battery', 'screen'] : 4 
+ ['camera', 'screen'] : 4 
+ ['price'] : 9 
+ ['camera', 'price'] : 3 
+ ['battery', 'camera', 'price'] : 3 
+ ['battery', 'price'] : 4 
+ ['battery'] : 10 
+ ['camera', 'battery'] : 6 
+ ['work'] : 11 
+ ['camera'] : 12 

@@ -1,0 +1,131 @@
+['android'] ==> ['lg'] support: 5 confidence: 83.3333 
+['android'] ==> ['time'] support: 5 confidence: 83.3333 
+['android', 'camera'] ==> ['google'] support: 4 confidence: 100.0 
+['android', 'camera'] ==> ['lg'] support: 4 confidence: 100.0 
+['android', 'camera'] ==> ['speaker'] support: 4 confidence: 100.0 
+['android', 'camera'] ==> ['time'] support: 4 confidence: 100.0 
+['android', 'camera', 'google'] ==> ['lg'] support: 4 confidence: 100.0 
+['android', 'camera', 'google'] ==> ['speaker'] support: 4 confidence: 100.0 
+['android', 'camera', 'google'] ==> ['time'] support: 4 confidence: 100.0 
+['android', 'camera', 'google', 'lg'] ==> ['speaker'] support: 4 confidence: 100.0 
+['android', 'camera', 'google', 'lg'] ==> ['time'] support: 4 confidence: 100.0 
+['android', 'camera', 'google', 'lg', 'speaker'] ==> ['time'] support: 4 confidence: 100.0 
+['android', 'camera', 'google', 'speaker'] ==> ['time'] support: 4 confidence: 100.0 
+['android', 'camera', 'lg'] ==> ['speaker'] support: 4 confidence: 100.0 
+['android', 'camera', 'lg'] ==> ['time'] support: 4 confidence: 100.0 
+['android', 'camera', 'lg', 'speaker'] ==> ['time'] support: 4 confidence: 100.0 
+['android', 'camera', 'speaker'] ==> ['time'] support: 4 confidence: 100.0 
+['android', 'google'] ==> ['lg'] support: 4 confidence: 100.0 
+['android', 'google'] ==> ['speaker'] support: 4 confidence: 100.0 
+['android', 'google'] ==> ['time'] support: 4 confidence: 100.0 
+['android', 'google', 'lg'] ==> ['speaker'] support: 4 confidence: 100.0 
+['android', 'google', 'lg'] ==> ['time'] support: 4 confidence: 100.0 
+['android', 'google', 'lg', 'speaker'] ==> ['time'] support: 4 confidence: 100.0 
+['android', 'google', 'speaker'] ==> ['time'] support: 4 confidence: 100.0 
+['android', 'lg'] ==> ['phone'] support: 4 confidence: 80.0 
+['android', 'lg'] ==> ['speaker'] support: 4 confidence: 80.0 
+['android', 'lg'] ==> ['time'] support: 5 confidence: 100.0 
+['android', 'lg'] ==> ['update'] support: 4 confidence: 80.0 
+['android', 'lg', 'phone'] ==> ['time'] support: 4 confidence: 100.0 
+['android', 'lg', 'speaker'] ==> ['time'] support: 4 confidence: 100.0 
+['android', 'lg', 'time'] ==> ['update'] support: 4 confidence: 80.0 
+['android', 'phone'] ==> ['time'] support: 4 confidence: 100.0 
+['android', 'speaker'] ==> ['time'] support: 4 confidence: 100.0 
+['android', 'time'] ==> ['update'] support: 4 confidence: 80.0 
+['battery', 'camera'] ==> ['day'] support: 4 confidence: 80.0 
+['battery', 'camera'] ==> ['screen'] support: 4 confidence: 80.0 
+['battery', 'camera'] ==> ['thing'] support: 4 confidence: 80.0 
+['battery', 'camera', 'day'] ==> ['screen'] support: 4 confidence: 100.0 
+['battery', 'camera', 'day'] ==> ['thing'] support: 4 confidence: 100.0 
+['battery', 'camera', 'day', 'screen'] ==> ['thing'] support: 4 confidence: 100.0 
+['battery', 'camera', 'screen'] ==> ['thing'] support: 4 confidence: 100.0 
+['battery', 'day'] ==> ['lg'] support: 5 confidence: 83.3333 
+['battery', 'day', 'google'] ==> ['headphone'] support: 4 confidence: 100.0 
+['battery', 'day', 'google'] ==> ['lg'] support: 4 confidence: 100.0 
+['battery', 'day', 'google', 'headphone'] ==> ['lg'] support: 4 confidence: 100.0 
+['battery', 'day', 'headphone'] ==> ['lg'] support: 4 confidence: 100.0 
+['battery', 'day', 'screen'] ==> ['thing'] support: 4 confidence: 100.0 
+['battery', 'google'] ==> ['headphone'] support: 4 confidence: 100.0 
+['battery', 'google'] ==> ['lg'] support: 4 confidence: 100.0 
+['battery', 'google', 'headphone'] ==> ['lg'] support: 4 confidence: 100.0 
+['battery', 'headphone'] ==> ['lg'] support: 4 confidence: 100.0 
+['battery', 'screen'] ==> ['sound'] support: 4 confidence: 80.0 
+['battery', 'screen'] ==> ['thing'] support: 4 confidence: 80.0 
+['call'] ==> ['quality'] support: 4 confidence: 80.0 
+['camera', 'day'] ==> ['feature'] support: 4 confidence: 80.0 
+['camera', 'day'] ==> ['screen'] support: 5 confidence: 100.0 
+['camera', 'day'] ==> ['thing'] support: 5 confidence: 100.0 
+['camera', 'day'] ==> ['time'] support: 4 confidence: 80.0 
+['camera', 'day', 'feature'] ==> ['screen'] support: 4 confidence: 100.0 
+['camera', 'day', 'feature'] ==> ['thing'] support: 4 confidence: 100.0 
+['camera', 'day', 'feature', 'screen'] ==> ['thing'] support: 4 confidence: 100.0 
+['camera', 'day', 'screen'] ==> ['thing'] support: 5 confidence: 100.0 
+['camera', 'day', 'screen'] ==> ['time'] support: 4 confidence: 80.0 
+['camera', 'day', 'screen', 'thing'] ==> ['time'] support: 4 confidence: 80.0 
+['camera', 'day', 'thing'] ==> ['time'] support: 4 confidence: 80.0 
+['camera', 'feature'] ==> ['screen'] support: 4 confidence: 100.0 
+['camera', 'feature'] ==> ['thing'] support: 4 confidence: 100.0 
+['camera', 'feature', 'screen'] ==> ['thing'] support: 4 confidence: 100.0 
+['camera', 'front'] ==> ['phone'] support: 4 confidence: 100.0 
+['camera', 'front'] ==> ['thing'] support: 4 confidence: 100.0 
+['camera', 'front', 'phone'] ==> ['thing'] support: 4 confidence: 100.0 
+['camera', 'g7'] ==> ['google'] support: 4 confidence: 80.0 
+['camera', 'g7'] ==> ['lg'] support: 4 confidence: 80.0 
+['camera', 'g7'] ==> ['phone'] support: 4 confidence: 80.0 
+['camera', 'g7', 'lg'] ==> ['phone'] support: 4 confidence: 100.0 
+['camera', 'google'] ==> ['lg'] support: 4 confidence: 80.0 
+['camera', 'google'] ==> ['screen'] support: 4 confidence: 80.0 
+['camera', 'google'] ==> ['speaker'] support: 4 confidence: 80.0 
+['camera', 'google'] ==> ['time'] support: 4 confidence: 80.0 
+['camera', 'google', 'lg'] ==> ['speaker'] support: 4 confidence: 100.0 
+['camera', 'google', 'lg'] ==> ['time'] support: 4 confidence: 100.0 
+['camera', 'google', 'lg', 'speaker'] ==> ['time'] support: 4 confidence: 100.0 
+['camera', 'google', 'speaker'] ==> ['time'] support: 4 confidence: 100.0 
+['camera', 'iphone'] ==> ['phone'] support: 4 confidence: 100.0 
+['camera', 'lg'] ==> ['phone'] support: 4 confidence: 80.0 
+['camera', 'lg'] ==> ['speaker'] support: 4 confidence: 80.0 
+['camera', 'lg'] ==> ['thing'] support: 4 confidence: 80.0 
+['camera', 'lg'] ==> ['time'] support: 4 confidence: 80.0 
+['camera', 'lg', 'speaker'] ==> ['time'] support: 4 confidence: 100.0 
+['camera', 'phone'] ==> ['thing'] support: 4 confidence: 80.0 
+['camera', 'protector'] ==> ['screen'] support: 4 confidence: 100.0 
+['camera', 'screen'] ==> ['thing'] support: 5 confidence: 83.3333 
+['camera', 'screen', 'thing'] ==> ['time'] support: 4 confidence: 80.0 
+['camera', 'speaker'] ==> ['time'] support: 4 confidence: 100.0 
+['claro'] ==> ['network'] support: 4 confidence: 80.0 
+['day', 'feature'] ==> ['place'] support: 4 confidence: 80.0 
+['day', 'feature'] ==> ['screen'] support: 4 confidence: 80.0 
+['day', 'feature'] ==> ['thing'] support: 4 confidence: 80.0 
+['day', 'feature', 'screen'] ==> ['thing'] support: 4 confidence: 100.0 
+['day', 'google'] ==> ['headphone'] support: 4 confidence: 100.0 
+['day', 'google'] ==> ['lg'] support: 4 confidence: 100.0 
+['day', 'google', 'headphone'] ==> ['lg'] support: 4 confidence: 100.0 
+['day', 'headphone'] ==> ['lg'] support: 4 confidence: 100.0 
+['day', 'screen'] ==> ['thing'] support: 5 confidence: 100.0 
+['day', 'screen'] ==> ['time'] support: 4 confidence: 80.0 
+['day', 'screen', 'thing'] ==> ['time'] support: 4 confidence: 80.0 
+['day', 'thing'] ==> ['time'] support: 4 confidence: 80.0 
+['feature', 'google'] ==> ['lg'] support: 4 confidence: 100.0 
+['feature', 'jack'] ==> ['lg'] support: 4 confidence: 100.0 
+['feature', 'screen'] ==> ['thing'] support: 4 confidence: 80.0 
+['feature', 'thing'] ==> ['work'] support: 4 confidence: 80.0 
+['flagship'] ==> ['lg'] support: 5 confidence: 100.0 
+['flagship'] ==> ['time'] support: 4 confidence: 80.0 
+['flagship', 'lg'] ==> ['time'] support: 4 confidence: 80.0 
+['front'] ==> ['phone'] support: 4 confidence: 100.0 
+['front'] ==> ['thing'] support: 4 confidence: 100.0 
+['front', 'phone'] ==> ['thing'] support: 4 confidence: 100.0 
+['g7'] ==> ['lg'] support: 9 confidence: 90.0 
+['g7', 'lg', 'phone'] ==> ['time'] support: 4 confidence: 80.0 
+['g7', 'phone'] ==> ['time'] support: 4 confidence: 80.0 
+['google'] ==> ['lg'] support: 6 confidence: 85.7143 
+['google', 'headphone'] ==> ['lg'] support: 4 confidence: 100.0 
+['google', 'lg', 'speaker'] ==> ['time'] support: 4 confidence: 100.0 
+['google', 'speaker'] ==> ['time'] support: 4 confidence: 100.0 
+['headphone'] ==> ['lg'] support: 5 confidence: 83.3333 
+['headphone', 'lg'] ==> ['time'] support: 4 confidence: 80.0 
+['lg', 'phone'] ==> ['time'] support: 5 confidence: 83.3333 
+['lg', 'speaker'] ==> ['time'] support: 4 confidence: 80.0 
+['protector'] ==> ['screen'] support: 4 confidence: 100.0 
+['screen', 'thing'] ==> ['time'] support: 4 confidence: 80.0 
+['speaker'] ==> ['time'] support: 4 confidence: 80.0 

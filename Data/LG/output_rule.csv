@@ -1,0 +1,23 @@
+['android'] ==> ['phone'] support: 8 confidence: 100.0 
+['att'] ==> ['phone'] support: 9 confidence: 100.0 
+['battery', 'camera', 'phone'] ==> ['screen'] support: 9 confidence: 75.0 
+['battery', 'day'] ==> ['phone'] support: 11 confidence: 100.0 
+['battery', 'feature'] ==> ['phone'] support: 8 confidence: 100.0 
+['call'] ==> ['phone'] support: 10 confidence: 100.0 
+['camera', 'day'] ==> ['phone'] support: 9 confidence: 100.0 
+['camera', 'day'] ==> ['thing'] support: 8 confidence: 88.8889 
+['camera', 'day', 'phone'] ==> ['thing'] support: 8 confidence: 88.8889 
+['camera', 'feature'] ==> ['phone'] support: 9 confidence: 100.0 
+['camera', 'iphone'] ==> ['phone'] support: 8 confidence: 100.0 
+['carrier'] ==> ['phone'] support: 8 confidence: 100.0 
+['day'] ==> ['phone'] support: 15 confidence: 100.0 
+['day', 'lg'] ==> ['phone'] support: 9 confidence: 100.0 
+['display'] ==> ['phone'] support: 9 confidence: 100.0 
+['g7'] ==> ['lg'] support: 10 confidence: 83.3333 
+['google'] ==> ['phone'] support: 9 confidence: 100.0 
+['headphone'] ==> ['jack'] support: 8 confidence: 80.0 
+['headphone'] ==> ['phone'] support: 10 confidence: 100.0 
+['headphone', 'jack'] ==> ['phone'] support: 8 confidence: 100.0 
+['iphone'] ==> ['phone'] support: 10 confidence: 100.0 
+['issue', 'lg'] ==> ['phone'] support: 8 confidence: 100.0 
+['jack'] ==> ['phone'] support: 10 confidence: 100.0 

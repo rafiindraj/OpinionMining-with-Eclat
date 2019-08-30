@@ -1,0 +1,201 @@
+ ['samsung'] : 7 
+ ['samsung', 'phone'] : 7 
+ ['volume'] : 7 
+ ['volume', 'case'] : 7 
+ ['volume', 'case', 'button'] : 7 
+ ['volume', 'case', 'button', 'phone'] : 7 
+ ['volume', 'case', 'phone'] : 7 
+ ['volume', 'button'] : 7 
+ ['volume', 'button', 'phone'] : 7 
+ ['volume', 'phone'] : 7 
+ ['glass'] : 7 
+ ['glass', 'phone'] : 7 
+ ['thing'] : 7 
+ ['phone', 'thing'] : 7 
+ ['lot'] : 7 
+ ['lot', 'htc'] : 7 
+ ['lot', 'phone', 'htc'] : 7 
+ ['lot', 'phone'] : 7 
+ ['video'] : 8 
+ ['video', 'phone'] : 7 
+ ['issue'] : 8 
+ ['issue', 'phone'] : 7 
+ ['feature'] : 8 
+ ['phone', 'feature'] : 7 
+ ['picture'] : 8 
+ ['phone', 'picture'] : 8 
+ ['edge'] : 9 
+ ['edge', 'button'] : 7 
+ ['edge', 'button', 'htc'] : 7 
+ ['edge', 'button', 'sense', 'htc'] : 7 
+ ['edge', 'htc', 'button', 'phone', 'sense'] : 7 
+ ['edge', 'button', 'phone', 'htc'] : 7 
+ ['edge', 'button', 'sense'] : 7 
+ ['edge', 'button', 'phone', 'sense'] : 7 
+ ['edge', 'button', 'phone'] : 7 
+ ['edge', 'htc'] : 7 
+ ['edge', 'sense', 'htc'] : 7 
+ ['edge', 'sense', 'phone', 'htc'] : 7 
+ ['edge', 'phone', 'htc'] : 7 
+ ['edge', 'sense'] : 9 
+ ['edge', 'phone', 'sense'] : 9 
+ ['edge', 'phone'] : 9 
+ ['life'] : 9 
+ ['life', 'time'] : 7 
+ ['life', 'time', 'phone'] : 7 
+ ['life', 'screen'] : 7 
+ ['life', 'screen', 'phone'] : 7 
+ ['life', 'sense'] : 7 
+ ['life', 'phone', 'sense'] : 7 
+ ['life', 'htc'] : 7 
+ ['life', 'phone', 'htc'] : 7 
+ ['life', 'battery'] : 8 
+ ['life', 'button', 'battery'] : 8 
+ ['life', 'button', 'battery', 'phone'] : 8 
+ ['life', 'battery', 'phone'] : 8 
+ ['life', 'button'] : 8 
+ ['life', 'button', 'phone'] : 8 
+ ['life', 'phone'] : 9 
+ ['review'] : 9 
+ ['review', 'button'] : 7 
+ ['review', 'button', 'phone'] : 7 
+ ['review', 'phone'] : 9 
+ ['year'] : 10 
+ ['case', 'year'] : 7 
+ ['case', 'year', 'htc'] : 7 
+ ['case', 'year', 'phone', 'htc'] : 7 
+ ['case', 'year', 'phone'] : 7 
+ ['year', 'button'] : 7 
+ ['year', 'button', 'htc'] : 7 
+ ['year', 'button', 'htc', 'phone'] : 7 
+ ['year', 'button', 'phone'] : 7 
+ ['year', 'htc'] : 9 
+ ['year', 'phone', 'htc'] : 9 
+ ['year', 'phone'] : 10 
+ ['device'] : 11 
+ ['button', 'device'] : 8 
+ ['button', 'htc', 'device'] : 7 
+ ['button', 'phone', 'htc', 'device'] : 7 
+ ['button', 'phone', 'device'] : 8 
+ ['htc', 'device'] : 10 
+ ['phone', 'htc', 'device'] : 9 
+ ['phone', 'device'] : 10 
+ ['quality'] : 11 
+ ['quality', 'sense'] : 7 
+ ['quality', 'sense', 'phone'] : 7 
+ ['quality', 'htc'] : 8 
+ ['quality', 'htc', 'phone'] : 8 
+ ['quality', 'phone'] : 11 
+ ['day'] : 11 
+ ['day', 'time'] : 7 
+ ['day', 'time', 'htc'] : 7 
+ ['day', 'time', 'htc', 'phone'] : 7 
+ ['day', 'time', 'phone'] : 7 
+ ['day', 'htc'] : 8 
+ ['day', 'phone', 'htc'] : 7 
+ ['day', 'phone'] : 10 
+ ['time'] : 11 
+ ['screen', 'time'] : 7 
+ ['screen', 'time', 'phone'] : 7 
+ ['time', 'sense'] : 7 
+ ['time', 'sense', 'phone'] : 7 
+ ['case', 'time'] : 8 
+ ['case', 'time', 'phone'] : 8 
+ ['time', 'htc'] : 8 
+ ['time', 'htc', 'phone'] : 8 
+ ['button', 'time'] : 9 
+ ['button', 'time', 'phone'] : 9 
+ ['time', 'phone'] : 11 
+ ['work'] : 12 
+ ['sense', 'work'] : 7 
+ ['sense', 'button', 'work'] : 7 
+ ['sense', 'button', 'htc', 'work'] : 7 
+ ['htc', 'work', 'button', 'phone', 'sense'] : 7 
+ ['sense', 'button', 'phone', 'work'] : 7 
+ ['sense', 'htc', 'work'] : 7 
+ ['sense', 'htc', 'phone', 'work'] : 7 
+ ['sense', 'phone', 'work'] : 7 
+ ['button', 'work'] : 9 
+ ['htc', 'button', 'work'] : 8 
+ ['htc', 'button', 'phone', 'work'] : 8 
+ ['button', 'phone', 'work'] : 9 
+ ['htc', 'work'] : 9 
+ ['htc', 'phone', 'work'] : 9 
+ ['phone', 'work'] : 12 
+ ['battery'] : 13 
+ ['screen', 'battery'] : 7 
+ ['screen', 'button', 'battery'] : 7 
+ ['screen', 'button', 'battery', 'phone'] : 7 
+ ['screen', 'battery', 'phone'] : 7 
+ ['battery', 'sense'] : 8 
+ ['htc', 'battery', 'sense'] : 7 
+ ['htc', 'button', 'battery', 'sense'] : 7 
+ ['battery', 'htc', 'button', 'phone', 'sense'] : 7 
+ ['htc', 'battery', 'sense', 'phone'] : 7 
+ ['button', 'battery', 'sense'] : 8 
+ ['button', 'battery', 'sense', 'phone'] : 8 
+ ['battery', 'sense', 'phone'] : 8 
+ ['battery', 'camera'] : 8 
+ ['button', 'battery', 'camera'] : 8 
+ ['phone', 'button', 'battery', 'camera'] : 8 
+ ['phone', 'battery', 'camera'] : 8 
+ ['battery', 'htc'] : 9 
+ ['button', 'battery', 'htc'] : 8 
+ ['button', 'battery', 'htc', 'phone'] : 8 
+ ['battery', 'htc', 'phone'] : 9 
+ ['button', 'battery'] : 11 
+ ['button', 'battery', 'phone'] : 11 
+ ['battery', 'phone'] : 12 
+ ['screen'] : 13 
+ ['screen', 'sense'] : 7 
+ ['screen', 'phone', 'sense'] : 7 
+ ['screen', 'camera'] : 7 
+ ['screen', 'phone', 'camera'] : 7 
+ ['screen', 'button'] : 8 
+ ['screen', 'button', 'phone'] : 8 
+ ['screen', 'htc'] : 10 
+ ['screen', 'phone', 'htc'] : 10 
+ ['screen', 'phone'] : 13 
+ ['case'] : 14 
+ ['case', 'sense'] : 9 
+ ['htc', 'case', 'sense'] : 8 
+ ['htc', 'case', 'button', 'sense'] : 7 
+ ['case', 'htc', 'button', 'phone', 'sense'] : 7 
+ ['htc', 'case', 'phone', 'sense'] : 8 
+ ['case', 'button', 'sense'] : 8 
+ ['case', 'button', 'phone', 'sense'] : 8 
+ ['case', 'phone', 'sense'] : 9 
+ ['case', 'htc'] : 10 
+ ['case', 'button', 'htc'] : 8 
+ ['case', 'button', 'phone', 'htc'] : 8 
+ ['case', 'phone', 'htc'] : 10 
+ ['case', 'button'] : 11 
+ ['case', 'button', 'phone'] : 11 
+ ['case', 'phone'] : 14 
+ ['sense'] : 14 
+ ['sense', 'camera'] : 8 
+ ['button', 'sense', 'camera'] : 7 
+ ['button', 'phone', 'sense', 'camera'] : 7 
+ ['phone', 'sense', 'camera'] : 8 
+ ['button', 'sense'] : 11 
+ ['htc', 'button', 'sense'] : 10 
+ ['htc', 'button', 'phone', 'sense'] : 10 
+ ['button', 'phone', 'sense'] : 11 
+ ['htc', 'sense'] : 11 
+ ['htc', 'phone', 'sense'] : 11 
+ ['phone', 'sense'] : 14 
+ ['camera'] : 14 
+ ['htc', 'camera'] : 8 
+ ['button', 'htc', 'camera'] : 7 
+ ['button', 'phone', 'htc', 'camera'] : 7 
+ ['phone', 'htc', 'camera'] : 8 
+ ['button', 'camera'] : 9 
+ ['button', 'phone', 'camera'] : 9 
+ ['phone', 'camera'] : 14 
+ ['button'] : 19 
+ ['button', 'htc'] : 13 
+ ['button', 'phone', 'htc'] : 13 
+ ['button', 'phone'] : 19 
+ ['htc'] : 22 
+ ['phone', 'htc'] : 20 
+ ['phone'] : 40 

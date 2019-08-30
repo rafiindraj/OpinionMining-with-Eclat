@@ -1,0 +1,5 @@
+﻿['phone'],
+['phone', 'claro', 'network', 'network', 'verizon'],
+['carrier', 'phone', 'connect', 'verizon', 'network'],
+['g5', 'g6', 'angle', 'selfie', 'g7', 'feature', 'order', 'product', 'lg', 'product', 'promotion'],
+['phone', 'love', 'competitor', 'store', 'hand', 'handle', 'display', 'photo', 'husband', 'distance', 'picture', 'determiner', 'clarity', 'picture', 'quality', 'color', 'filter', 'call', 'quality', 'display', 'glass', 'feature', 'fun', 'processor'],

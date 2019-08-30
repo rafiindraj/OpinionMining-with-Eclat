@@ -1,0 +1,381 @@
+ ['edge'] : 15 
+ ['edge', 'phone'] : 15 
+ ['service'] : 15 
+ ['service', 'phone'] : 15 
+ ['flagship'] : 15 
+ ['hour'] : 15 
+ ['network'] : 15 
+ ['design'] : 16 
+ ['design', 'phone'] : 16 
+ ['support'] : 16 
+ ['phone', 'support'] : 16 
+ ['brand'] : 16 
+ ['phone', 'brand'] : 15 
+ ['headphone'] : 16 
+ ['phone', 'headphone'] : 15 
+ ['card'] : 16 
+ ['card', 'phone'] : 15 
+ ['option'] : 17 
+ ['sony', 'option'] : 15 
+ ['sony', 'option', 'phone'] : 15 
+ ['option', 'phone'] : 16 
+ ['device'] : 17 
+ ['device', 'phone'] : 16 
+ ['product'] : 17 
+ ['glass'] : 17 
+ ['glass', 'phone'] : 16 
+ ['price'] : 17 
+ ['price', 'phone'] : 15 
+ ['week'] : 17 
+ ['phone', 'week'] : 16 
+ ['jack'] : 18 
+ ['jack', 'phone'] : 17 
+ ['compact'] : 19 
+ ['compact', 'phone'] : 17 
+ ['performance'] : 19 
+ ['performance', 'phone'] : 16 
+ ['apps'] : 20 
+ ['sony', 'apps'] : 17 
+ ['sony', 'apps', 'phone'] : 17 
+ ['apps', 'phone'] : 20 
+ ['video'] : 20 
+ ['video', 'camera'] : 16 
+ ['video', 'camera', 'phone'] : 16 
+ ['video', 'sony'] : 16 
+ ['video', 'sony', 'phone'] : 16 
+ ['video', 'phone'] : 20 
+ ['call'] : 20 
+ ['call', 'phone'] : 19 
+ ['bit'] : 20 
+ ['bit', 'phone'] : 20 
+ ['sound'] : 20 
+ ['camera', 'sound'] : 15 
+ ['sound', 'phone'] : 18 
+ ['side'] : 21 
+ ['side', 'camera'] : 16 
+ ['side', 'camera', 'phone'] : 16 
+ ['side', 'phone'] : 20 
+ ['color'] : 21 
+ ['sony', 'color'] : 19 
+ ['sony', 'color', 'phone'] : 19 
+ ['color', 'phone'] : 21 
+ ['android'] : 21 
+ ['android', 'phone'] : 20 
+ ['iphone'] : 21 
+ ['iphone', 'camera'] : 15 
+ ['iphone', 'phone'] : 20 
+ ['review'] : 22 
+ ['review', 'camera'] : 16 
+ ['review', 'phone'] : 18 
+ ['button'] : 22 
+ ['camera', 'button'] : 18 
+ ['camera', 'button', 'phone'] : 17 
+ ['button', 'phone'] : 21 
+ ['pocket'] : 22 
+ ['pocket', 'phone'] : 20 
+ ['month'] : 23 
+ ['sony', 'month'] : 18 
+ ['sony', 'month', 'phone'] : 18 
+ ['month', 'phone'] : 22 
+ ['samsung'] : 23 
+ ['sony', 'samsung'] : 19 
+ ['sony', 'samsung', 'phone'] : 18 
+ ['samsung', 'phone'] : 21 
+ ['year'] : 23 
+ ['year', 'phone'] : 21 
+ ['finger'] : 23 
+ ['finger', 'camera'] : 17 
+ ['finger', 'camera', 'phone'] : 17 
+ ['finger', 'phone'] : 23 
+ ['speaker'] : 24 
+ ['speaker', 'sony'] : 15 
+ ['speaker', 'sony', 'phone'] : 15 
+ ['battery', 'speaker'] : 16 
+ ['battery', 'speaker', 'camera'] : 15 
+ ['battery', 'speaker', 'phone'] : 15 
+ ['speaker', 'screen'] : 16 
+ ['speaker', 'screen', 'phone'] : 15 
+ ['speaker', 'camera'] : 19 
+ ['speaker', 'camera', 'phone'] : 17 
+ ['speaker', 'phone'] : 22 
+ ['display'] : 24 
+ ['sony', 'display'] : 17 
+ ['sony', 'display', 'phone'] : 16 
+ ['camera', 'display'] : 19 
+ ['camera', 'display', 'phone'] : 18 
+ ['display', 'phone'] : 21 
+ ['picture'] : 24 
+ ['picture', 'sony'] : 19 
+ ['picture', 'sony', 'phone'] : 18 
+ ['picture', 'phone'] : 22 
+ ['lot'] : 25 
+ ['lot', 'camera'] : 16 
+ ['lot', 'camera', 'phone'] : 15 
+ ['lot', 'phone'] : 22 
+ ['verizon'] : 25 
+ ['verizon', 'phone'] : 24 
+ ['feature'] : 26 
+ ['work', 'feature'] : 17 
+ ['phone', 'work', 'feature'] : 17 
+ ['camera', 'feature'] : 18 
+ ['phone', 'camera', 'feature'] : 18 
+ ['phone', 'feature'] : 25 
+ ['feel'] : 27 
+ ['battery', 'feel'] : 15 
+ ['battery', 'feel', 'phone'] : 15 
+ ['camera', 'feel'] : 15 
+ ['camera', 'feel', 'phone'] : 15 
+ ['screen', 'feel'] : 16 
+ ['screen', 'feel', 'phone'] : 16 
+ ['sony', 'feel'] : 16 
+ ['sony', 'feel', 'phone'] : 16 
+ ['hand', 'feel'] : 19 
+ ['hand', 'feel', 'phone'] : 19 
+ ['feel', 'phone'] : 27 
+ ['issue'] : 28 
+ ['screen', 'issue'] : 15 
+ ['camera', 'issue'] : 16 
+ ['camera', 'issue', 'phone'] : 15 
+ ['sony', 'issue'] : 18 
+ ['sony', 'issue', 'phone'] : 16 
+ ['issue', 'phone'] : 26 
+ ['case'] : 28 
+ ['battery', 'case'] : 15 
+ ['battery', 'case', 'phone'] : 15 
+ ['case', 'camera'] : 16 
+ ['case', 'camera', 'phone'] : 16 
+ ['case', 'sony'] : 20 
+ ['case', 'sony', 'phone'] : 20 
+ ['case', 'phone'] : 27 
+ ['sensor'] : 29 
+ ['sensor', 'screen'] : 17 
+ ['fingerprint', 'sensor', 'screen'] : 16 
+ ['fingerprint', 'sensor', 'screen', 'phone'] : 15 
+ ['sensor', 'screen', 'phone'] : 16 
+ ['sensor', 'battery'] : 18 
+ ['sensor', 'battery', 'camera'] : 15 
+ ['sensor', 'battery', 'camera', 'phone'] : 15 
+ ['fingerprint', 'sensor', 'battery'] : 15 
+ ['fingerprint', 'sensor', 'battery', 'phone'] : 15 
+ ['sensor', 'battery', 'phone'] : 18 
+ ['sensor', 'sony'] : 19 
+ ['sensor', 'sony', 'camera'] : 16 
+ ['sensor', 'sony', 'camera', 'phone'] : 15 
+ ['fingerprint', 'sensor', 'sony'] : 17 
+ ['fingerprint', 'sensor', 'sony', 'phone'] : 15 
+ ['sensor', 'sony', 'phone'] : 17 
+ ['sensor', 'camera'] : 22 
+ ['fingerprint', 'sensor', 'camera'] : 19 
+ ['fingerprint', 'sensor', 'camera', 'phone'] : 18 
+ ['sensor', 'camera', 'phone'] : 21 
+ ['fingerprint', 'sensor'] : 23 
+ ['fingerprint', 'sensor', 'phone'] : 21 
+ ['sensor', 'phone'] : 27 
+ ['problem'] : 29 
+ ['problem', 'sony'] : 17 
+ ['problem', 'sony', 'phone'] : 15 
+ ['problem', 'phone'] : 26 
+ ['thing'] : 30 
+ ['thing', 'screen'] : 15 
+ ['thing', 'screen', 'phone'] : 15 
+ ['thing', 'day'] : 17 
+ ['phone', 'thing', 'day'] : 15 
+ ['thing', 'camera'] : 17 
+ ['thing', 'camera', 'phone'] : 16 
+ ['thing', 'sony'] : 19 
+ ['thing', 'sony', 'phone'] : 18 
+ ['thing', 'phone'] : 28 
+ ['life'] : 32 
+ ['fingerprint', 'life'] : 15 
+ ['fingerprint', 'life', 'phone'] : 15 
+ ['life', 'day'] : 15 
+ ['phone', 'life', 'day'] : 15 
+ ['screen', 'life'] : 16 
+ ['screen', 'life', 'phone'] : 16 
+ ['camera', 'life'] : 18 
+ ['camera', 'life', 'phone'] : 16 
+ ['sony', 'life'] : 20 
+ ['battery', 'sony', 'life'] : 17 
+ ['battery', 'sony', 'life', 'phone'] : 17 
+ ['sony', 'life', 'phone'] : 20 
+ ['battery', 'life'] : 26 
+ ['battery', 'life', 'phone'] : 24 
+ ['life', 'phone'] : 30 
+ ['quality'] : 32 
+ ['work', 'quality'] : 15 
+ ['phone', 'work', 'quality'] : 15 
+ ['screen', 'quality'] : 18 
+ ['screen', 'camera', 'quality'] : 17 
+ ['phone', 'screen', 'camera', 'quality'] : 16 
+ ['phone', 'screen', 'quality'] : 17 
+ ['sony', 'quality'] : 19 
+ ['phone', 'sony', 'quality'] : 19 
+ ['camera', 'quality'] : 21 
+ ['phone', 'camera', 'quality'] : 19 
+ ['phone', 'quality'] : 27 
+ ['size'] : 36 
+ ['time', 'size'] : 15 
+ ['work', 'size'] : 16 
+ ['work', 'size', 'phone'] : 16 
+ ['sony', 'size'] : 16 
+ ['sony', 'size', 'phone'] : 15 
+ ['camera', 'size'] : 18 
+ ['camera', 'size', 'phone'] : 17 
+ ['battery', 'size'] : 19 
+ ['battery', 'size', 'phone'] : 18 
+ ['size', 'phone'] : 32 
+ ['fingerprint'] : 37 
+ ['fingerprint', 'day'] : 15 
+ ['fingerprint', 'time'] : 16 
+ ['fingerprint', 'time', 'phone'] : 15 
+ ['fingerprint', 'time', 'sony', 'phone'] : 15 
+ ['fingerprint', 'time', 'sony'] : 16 
+ ['fingerprint', 'hand'] : 17 
+ ['fingerprint', 'hand', 'phone'] : 16 
+ ['fingerprint', 'work'] : 20 
+ ['fingerprint', 'camera', 'work'] : 16 
+ ['fingerprint', 'camera', 'work', 'phone'] : 16 
+ ['fingerprint', 'sony', 'work'] : 18 
+ ['fingerprint', 'sony', 'work', 'phone'] : 18 
+ ['fingerprint', 'work', 'phone'] : 20 
+ ['fingerprint', 'battery'] : 21 
+ ['fingerprint', 'battery', 'screen'] : 16 
+ ['fingerprint', 'battery', 'screen', 'sony'] : 15 
+ ['phone', 'battery', 'screen', 'fingerprint', 'sony'] : 15 
+ ['fingerprint', 'battery', 'screen', 'camera'] : 15 
+ ['camera', 'phone', 'battery', 'screen', 'fingerprint'] : 15 
+ ['fingerprint', 'battery', 'screen', 'phone'] : 16 
+ ['fingerprint', 'battery', 'sony'] : 18 
+ ['fingerprint', 'battery', 'sony', 'camera'] : 15 
+ ['camera', 'phone', 'battery', 'fingerprint', 'sony'] : 15 
+ ['fingerprint', 'battery', 'sony', 'phone'] : 18 
+ ['fingerprint', 'battery', 'camera'] : 18 
+ ['fingerprint', 'battery', 'camera', 'phone'] : 18 
+ ['fingerprint', 'battery', 'phone'] : 21 
+ ['fingerprint', 'screen'] : 23 
+ ['fingerprint', 'screen', 'sony'] : 19 
+ ['fingerprint', 'screen', 'camera', 'sony'] : 16 
+ ['camera', 'phone', 'screen', 'fingerprint', 'sony'] : 16 
+ ['fingerprint', 'screen', 'sony', 'phone'] : 18 
+ ['fingerprint', 'screen', 'camera'] : 20 
+ ['fingerprint', 'screen', 'camera', 'phone'] : 20 
+ ['fingerprint', 'screen', 'phone'] : 22 
+ ['fingerprint', 'sony'] : 28 
+ ['fingerprint', 'sony', 'camera'] : 21 
+ ['fingerprint', 'sony', 'camera', 'phone'] : 20 
+ ['fingerprint', 'sony', 'phone'] : 26 
+ ['fingerprint', 'camera'] : 29 
+ ['fingerprint', 'camera', 'phone'] : 28 
+ ['fingerprint', 'phone'] : 35 
+ ['day'] : 40 
+ ['time', 'day'] : 16 
+ ['time', 'phone', 'day'] : 15 
+ ['camera', 'day'] : 19 
+ ['battery', 'camera', 'day'] : 15 
+ ['screen', 'camera', 'day'] : 15 
+ ['phone', 'screen', 'camera', 'day'] : 15 
+ ['sony', 'camera', 'day'] : 15 
+ ['phone', 'camera', 'day'] : 18 
+ ['battery', 'day'] : 23 
+ ['battery', 'screen', 'day'] : 15 
+ ['phone', 'battery', 'screen', 'day'] : 15 
+ ['battery', 'sony', 'day'] : 19 
+ ['phone', 'battery', 'sony', 'day'] : 18 
+ ['battery', 'phone', 'day'] : 22 
+ ['screen', 'day'] : 24 
+ ['screen', 'sony', 'day'] : 16 
+ ['phone', 'screen', 'sony', 'day'] : 15 
+ ['phone', 'screen', 'day'] : 23 
+ ['sony', 'day'] : 25 
+ ['phone', 'sony', 'day'] : 23 
+ ['phone', 'day'] : 36 
+ ['time'] : 41 
+ ['time', 'hand'] : 15 
+ ['time', 'work'] : 16 
+ ['time', 'work', 'phone'] : 15 
+ ['time', 'battery'] : 21 
+ ['time', 'battery', 'camera'] : 15 
+ ['time', 'battery', 'camera', 'phone'] : 15 
+ ['time', 'battery', 'screen'] : 16 
+ ['time', 'battery', 'screen', 'phone'] : 16 
+ ['time', 'battery', 'sony'] : 17 
+ ['time', 'battery', 'sony', 'phone'] : 17 
+ ['time', 'battery', 'phone'] : 21 
+ ['time', 'camera'] : 21 
+ ['time', 'screen', 'camera'] : 15 
+ ['time', 'screen', 'camera', 'phone'] : 15 
+ ['time', 'sony', 'camera'] : 18 
+ ['time', 'sony', 'camera', 'phone'] : 18 
+ ['time', 'camera', 'phone'] : 21 
+ ['time', 'screen'] : 24 
+ ['time', 'screen', 'sony'] : 19 
+ ['time', 'screen', 'sony', 'phone'] : 18 
+ ['time', 'screen', 'phone'] : 23 
+ ['time', 'sony'] : 30 
+ ['time', 'sony', 'phone'] : 28 
+ ['time', 'phone'] : 36 
+ ['hand'] : 42 
+ ['hand', 'battery'] : 16 
+ ['hand', 'battery', 'phone'] : 16 
+ ['hand', 'work'] : 19 
+ ['hand', 'work', 'phone'] : 19 
+ ['hand', 'screen'] : 19 
+ ['hand', 'screen', 'camera'] : 15 
+ ['hand', 'screen', 'camera', 'phone'] : 15 
+ ['hand', 'screen', 'phone'] : 19 
+ ['hand', 'camera'] : 24 
+ ['hand', 'sony', 'camera'] : 18 
+ ['hand', 'sony', 'camera', 'phone'] : 17 
+ ['hand', 'camera', 'phone'] : 23 
+ ['hand', 'sony'] : 26 
+ ['hand', 'sony', 'phone'] : 25 
+ ['hand', 'phone'] : 40 
+ ['battery'] : 52 
+ ['battery', 'work'] : 22 
+ ['battery', 'camera', 'work'] : 16 
+ ['battery', 'camera', 'work', 'phone'] : 16 
+ ['battery', 'work', 'phone'] : 21 
+ ['battery', 'screen'] : 27 
+ ['battery', 'screen', 'camera'] : 20 
+ ['battery', 'screen', 'camera', 'sony'] : 17 
+ ['camera', 'phone', 'battery', 'screen', 'sony'] : 17 
+ ['battery', 'screen', 'camera', 'phone'] : 20 
+ ['battery', 'screen', 'sony'] : 21 
+ ['battery', 'screen', 'sony', 'phone'] : 21 
+ ['battery', 'screen', 'phone'] : 27 
+ ['battery', 'camera'] : 30 
+ ['battery', 'sony', 'camera'] : 21 
+ ['battery', 'sony', 'camera', 'phone'] : 20 
+ ['battery', 'camera', 'phone'] : 27 
+ ['battery', 'sony'] : 31 
+ ['battery', 'sony', 'phone'] : 29 
+ ['battery', 'phone'] : 48 
+ ['work'] : 56 
+ ['screen', 'work'] : 22 
+ ['screen', 'camera', 'work'] : 15 
+ ['screen', 'camera', 'work', 'phone'] : 15 
+ ['screen', 'work', 'sony'] : 15 
+ ['screen', 'work', 'sony', 'phone'] : 15 
+ ['screen', 'work', 'phone'] : 22 
+ ['camera', 'work'] : 27 
+ ['sony', 'camera', 'work'] : 19 
+ ['sony', 'camera', 'work', 'phone'] : 19 
+ ['camera', 'work', 'phone'] : 27 
+ ['sony', 'work'] : 33 
+ ['sony', 'work', 'phone'] : 29 
+ ['work', 'phone'] : 51 
+ ['screen'] : 62 
+ ['screen', 'camera'] : 35 
+ ['screen', 'camera', 'sony'] : 24 
+ ['screen', 'camera', 'sony', 'phone'] : 24 
+ ['screen', 'camera', 'phone'] : 34 
+ ['screen', 'sony'] : 39 
+ ['screen', 'sony', 'phone'] : 38 
+ ['screen', 'phone'] : 58 
+ ['camera'] : 72 
+ ['sony', 'camera'] : 42 
+ ['sony', 'camera', 'phone'] : 38 
+ ['camera', 'phone'] : 65 
+ ['sony'] : 90 
+ ['sony', 'phone'] : 78 
+ ['phone'] : 159 

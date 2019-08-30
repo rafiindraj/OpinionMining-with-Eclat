@@ -1,0 +1,1 @@
+['camera', 'google', 'android', 'day', 'lg', 'battery', 'screen', 'speaker', 'feature', 'headphone', 'phone', 'g7', 'thing', 'front'],
